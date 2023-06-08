@@ -1,13 +1,106 @@
-### Hi there 👋  
+<h3 align="center"><b>Hi there 👋</b></h3>
+<h3 align="center"><b>👩‍💻 I'm a Software Developer</b></h3>
 
-👩‍💻 I'm a Software Developer
+
+<p align="center">
+  <a href="https://linkedin.com/in/çiğdemçakır/">
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 28px;"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center"><b>💻 Tech Stack</b></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="HTML5" />
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+ <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vue" />
+      <br>Vite
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="PostgreSQL" />
+      <br>.Net
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="HTML5" />
+      <br>Selenium
+    </td>
+ </tr>
+</table>
+<br><br>
 
 
-### 🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/çiğdemçakır/) 
+</div>
 
-### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  </br> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) </br>![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=medgicakir&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medgicakir&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
