@@ -79,7 +79,7 @@
       <br>Vite
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
       <br>Sass
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="PostgreSQL" />
