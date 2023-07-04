@@ -80,7 +80,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br>Sass
+      <br>Python
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="PostgreSQL" />
       <br>.Net
